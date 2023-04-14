@@ -10,3 +10,13 @@ Sales management has gained importance to meet increasing competition and the ne
 
 1. Excel
 2. Power BI
+
+<h2>📉 Dashboard</h2>
+
+![image](https://user-images.githubusercontent.com/93142399/232027695-9aa5bf40-8edb-45a3-9eb9-6da069d7cdf7.png)
+
+![image](https://user-images.githubusercontent.com/93142399/232027854-8c86bb9c-53ff-48bb-b1c9-9ffc135be246.png)
+
+![image](https://user-images.githubusercontent.com/93142399/232027932-3431b49a-ddbf-4fe6-96dd-57e9aa8daf6e.png)
+
+![image](https://user-images.githubusercontent.com/93142399/232028036-e9c149c5-5bf5-435a-afcb-a2b58da4368f.png)
